@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 d084cd5314c78c37c1e5d80280734d4219c4f481 abdourahman <abdourahmanneymar3533@gmail.com> 1640627512 +0300	commit (initial): premier enregistrement
+d084cd5314c78c37c1e5d80280734d4219c4f481 7a5775dce6fb7946fd6c65b31f6dddfbda171049 abdourahman <abdourahmanneymar3533@gmail.com> 1640627806 +0300	commit: suppression du paragrahe
+7a5775dce6fb7946fd6c65b31f6dddfbda171049 d084cd5314c78c37c1e5d80280734d4219c4f481 abdourahman <abdourahmanneymar3533@gmail.com> 1640630346 +0300	reset: moving to d084cd5
+d084cd5314c78c37c1e5d80280734d4219c4f481 5bbdecd512bf5c38341469d266e065e2800576cb abdourahman <abdourahmanneymar3533@gmail.com> 1640630541 +0300	commit: ajouter un paragraphe
+5bbdecd512bf5c38341469d266e065e2800576cb d084cd5314c78c37c1e5d80280734d4219c4f481 abdourahman <abdourahmanneymar3533@gmail.com> 1640630890 +0300	reset: moving to d084cd5
+d084cd5314c78c37c1e5d80280734d4219c4f481 213de3d0a27972fcbd80363c6dc58bd4f08628c3 abdourahman <abdourahmanneymar3533@gmail.com> 1640632140 +0300	commit: ignoration des fichier
+213de3d0a27972fcbd80363c6dc58bd4f08628c3 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641061414 +0300	commit: je ajoute un 3 paragraph
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641061719 +0300	checkout: moving from master to 33da8fb
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641061852 +0300	checkout: moving from 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 to master
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641063565 +0300	checkout: moving from master to nbranch
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 e179b19ef55be62a1d502eb150c5ef0524e861a5 abdourahman <abdourahmanneymar3533@gmail.com> 1641063773 +0300	commit: je ajoute 2 titre et un lien
+e179b19ef55be62a1d502eb150c5ef0524e861a5 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641063804 +0300	checkout: moving from nbranch to master
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 e179b19ef55be62a1d502eb150c5ef0524e861a5 abdourahman <abdourahmanneymar3533@gmail.com> 1641064081 +0300	checkout: moving from master to nbranch
+e179b19ef55be62a1d502eb150c5ef0524e861a5 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641064801 +0300	checkout: moving from nbranch to master
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 e179b19ef55be62a1d502eb150c5ef0524e861a5 abdourahman <abdourahmanneymar3533@gmail.com> 1641064872 +0300	checkout: moving from master to nbranch
+e179b19ef55be62a1d502eb150c5ef0524e861a5 2a3a6006e1262158050df41e373f0b692648987e abdourahman <abdourahmanneymar3533@gmail.com> 1641064978 +0300	commit: je supprime 2 paragphe et 2 titre
+2a3a6006e1262158050df41e373f0b692648987e 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641065011 +0300	checkout: moving from nbranch to master
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 2a3a6006e1262158050df41e373f0b692648987e abdourahman <abdourahmanneymar3533@gmail.com> 1641065086 +0300	checkout: moving from master to nbranch
+2a3a6006e1262158050df41e373f0b692648987e 33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 abdourahman <abdourahmanneymar3533@gmail.com> 1641065114 +0300	checkout: moving from nbranch to master
+33da8fb8bfcae8bd87e1d6c3d00443ad91c19409 2a3a6006e1262158050df41e373f0b692648987e abdourahman <abdourahmanneymar3533@gmail.com> 1641065145 +0300	merge nbranch: Fast-forward
+2a3a6006e1262158050df41e373f0b692648987e bb176ddb3ef04eb4d71f6505ff7aaef103b77f46 abdourahman <abdourahmanneymar3533@gmail.com> 1641835386 +0300	commit: c'est la page d'acceuille
+bb176ddb3ef04eb4d71f6505ff7aaef103b77f46 1171f716a076a04b875920f5ad7bcd05cddf1482 abdourahman <abdourahmanneymar3533@gmail.com> 1641841356 +0300	commit: add file
+1171f716a076a04b875920f5ad7bcd05cddf1482 c9bb70290a6acd7e7179f1b458881eb95aea6442 abdourahman <abdourahmanneymar3533@gmail.com> 1641927959 +0300	commit: page d'accuiil
+c9bb70290a6acd7e7179f1b458881eb95aea6442 6263ca47fc431b84f5b3c628c05226b525abada4 abdourahman <abdourahmanneymar3533@gmail.com> 1641928437 +0300	commit: je ajoute une background
+6263ca47fc431b84f5b3c628c05226b525abada4 180937cbbeda4710f52c5195c64f66e412983b18 abdourahman <abdourahmanneymar3533@gmail.com> 1644417836 +0300	commit: dernier engistrement
+180937cbbeda4710f52c5195c64f66e412983b18 064ee86ad3b3cbe32a30f85e0820555830564a1a abdourahman <abdourahmanneymar3533@gmail.com> 1646852598 +0300	commit: dernier modifacation
+064ee86ad3b3cbe32a30f85e0820555830564a1a 3c80b5de5e18524c476df5668612162492271dce abdourahman <abdourahmanneymar3533@gmail.com> 1648815272 +0300	commit: les fonctions isNaN() try() trow() catght()
